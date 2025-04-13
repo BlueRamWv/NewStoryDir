@@ -1,6 +1,9 @@
 My favorite Zombi Movies List:(list will be updating)
 Dawn of the Dead 2004
 Evel Dead 2023
+<<<<<<< HEAD
 Day of the Dead 2008
 Resident Evil 2002
 The Land of the Dead(George Romero)
+=======
+>>>>>>> c960764c67d902762149b5dd564d4b0b261a7f36
